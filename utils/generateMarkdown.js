@@ -11,4 +11,4 @@ ${answers.gitUsername}
 `;
 }
 
-module.exports = generateMarkdown;
+module.exports = generateReadMe;
