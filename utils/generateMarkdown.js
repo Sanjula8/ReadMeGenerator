@@ -1,13 +1,37 @@
 function generateReadMe(answers) {
 	return `
-## Project Name
-${answers.projectName}
+## Project Title
+${answers.projectTitle}
 ## Project Description
 ${answers.Description}
-#GitHub Email
+
+## Table of Contents:
+[Installation](#installation)
+[Usage](#usage)
+[Credits](#credits)
+[License](#license)
+
+## Installation
+
+## Usage
+[Provide instructions and examples to use.]
+
+## Credits
+[List your collaborators.]
+
+## License
+${answers.License}
+
+## Badges
+
+## GitHub Email
 ${answers.gitEmail}
-#GitHub Username
+## GitHub Username
 ${answers.gitUsername}
+
+
+
+
 `;
 }
 
