@@ -50,9 +50,3 @@ async function init() {
 		console.log(err);
 	}
 }
-
-// generateReadMe();
-
-// const questions = [];
-
-// function writeToFile(fileName, data) {}
