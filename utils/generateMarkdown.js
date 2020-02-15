@@ -23,12 +23,13 @@ ${answers.Description}
 ${answers.License}
 
 ## Badges
-
+${answers.totalStars}
 ## GitHub Email
-${answers.gitEmail}
+${answers.email}
 ## GitHub Username
 ${answers.gitUsername}
-
+## Avatar URL
+![avatarurl](${answers.avatar_url})
 
 
 
